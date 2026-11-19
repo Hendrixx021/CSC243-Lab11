@@ -26,4 +26,3 @@ class Airlock:
       return f"Airlock {self.code}: sealed"
     else:
       return f"Airlock {self.code}: open"
-
